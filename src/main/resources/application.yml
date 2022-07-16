@@ -1,0 +1,4 @@
+aws:
+  endpoint:
+  key: ${AWS_KEY}
+  secret: ${AWS_SECRET}
